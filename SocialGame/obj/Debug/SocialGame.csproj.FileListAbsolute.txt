@@ -1,0 +1,10 @@
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\bin\Debug\SocialGame.exe.config
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\bin\Debug\SocialGame.exe
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\bin\Debug\SocialGame.pdb
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\obj\Debug\SocialGame.csprojAssemblyReference.cache
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\obj\Debug\SocialGame.Form1.resources
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\obj\Debug\SocialGame.Properties.Resources.resources
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\obj\Debug\SocialGame.csproj.GenerateResource.cache
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\obj\Debug\SocialGame.csproj.CoreCompileInputs.cache
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\obj\Debug\SocialGame.exe
+C:\Users\Hardcore\source\repos\SocialGame\SocialGame\obj\Debug\SocialGame.pdb
