@@ -46,7 +46,7 @@
             this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1265, 32);
+            this.panel1.Size = new System.Drawing.Size(293, 32);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -57,7 +57,7 @@
             this.button_Minimize.FlatAppearance.BorderSize = 0;
             this.button_Minimize.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Minimize.ForeColor = System.Drawing.Color.Silver;
-            this.button_Minimize.Location = new System.Drawing.Point(1185, 0);
+            this.button_Minimize.Location = new System.Drawing.Point(213, 0);
             this.button_Minimize.Name = "button_Minimize";
             this.button_Minimize.Size = new System.Drawing.Size(40, 32);
             this.button_Minimize.TabIndex = 1;
@@ -73,7 +73,7 @@
             this.button_Exit.FlatAppearance.BorderSize = 0;
             this.button_Exit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Exit.ForeColor = System.Drawing.Color.Silver;
-            this.button_Exit.Location = new System.Drawing.Point(1225, 0);
+            this.button_Exit.Location = new System.Drawing.Point(253, 0);
             this.button_Exit.Name = "button_Exit";
             this.button_Exit.Size = new System.Drawing.Size(40, 32);
             this.button_Exit.TabIndex = 0;
@@ -96,7 +96,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(62)))), ((int)(((byte)(57)))));
-            this.ClientSize = new System.Drawing.Size(1265, 648);
+            this.ClientSize = new System.Drawing.Size(293, 529);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";

@@ -11,10 +11,15 @@ c:\users\hardcore\source\repos\SCSS\SCSS\obj\Debug\SCSS.pdb
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\bin\Debug\SCSS.exe.config
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\bin\Debug\SCSS.exe
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\bin\Debug\SCSS.pdb
-C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.csprojAssemblyReference.cache
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.Form1.resources
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.Properties.Resources.resources
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.csproj.GenerateResource.cache
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.csproj.CoreCompileInputs.cache
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.exe
 C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.pdb
+C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.Form2.resources
+C:\Users\Hardcore\source\repos\social-credit-system\SCSS\bin\Debug\CircularProgressBar.dll
+C:\Users\Hardcore\source\repos\social-credit-system\SCSS\bin\Debug\WinFormAnimation.dll
+C:\Users\Hardcore\source\repos\social-credit-system\SCSS\bin\Debug\CircularProgressBar.xml
+C:\Users\Hardcore\source\repos\social-credit-system\SCSS\bin\Debug\WinFormAnimation.xml
+C:\Users\Hardcore\source\repos\social-credit-system\SCSS\obj\Debug\SCSS.csproj.CopyComplete
